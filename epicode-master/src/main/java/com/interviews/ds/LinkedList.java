@@ -242,7 +242,7 @@ public class LinkedList {
      *
      */
 
-    public static ListNode FindBeginning(ListNode head) {
+    public static ListNode findBeginning(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
 
